@@ -1,0 +1,1 @@
+SELECT DISTINCT COUNT(rate) FROM fx GROUP BY date_of_fx
